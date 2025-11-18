@@ -1,2 +1,2 @@
-# spin-coater
-All things regarding Irvine HackerFab's Spin Coater.
+# Irvine HackerFab
+Welcome to the Irvine Hacker Fab Git repository!
